@@ -10,7 +10,7 @@ var refreshIntervalId = window.setInterval(removeAndDisplay, 10)
 $( document ).ready(function() {
     var message = $('<h1>')
         .attr('id', 'distracted')
-        .text("Don't get distracted by Reddit!")
+        .text("Stop wasting time on Reddit!")
         .css('font-size', '35px')
         .css('font-family', "'Helvetica Neue', Helvetica, Arial, 'lucida grande', tahoma, verdana, arial, sans-serif")
         .css('position', 'relative') 
