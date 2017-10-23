@@ -1,5 +1,3 @@
-var addedMessage = false
-
 function removeAndDisplay() {
     //remove parts of the Reddit main page
      $('#siteTable').remove();
@@ -10,7 +8,6 @@ var refreshIntervalId = window.setInterval(removeAndDisplay, 10)
 
 //add message once document loaded
 $( document ).ready(function() {
-    // removeAndDisplay();
     var message = $('<h1>')
         .attr('id', 'distracted')
         .text("Don't get distracted by Reddit!")
