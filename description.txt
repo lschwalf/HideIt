@@ -1,5 +1,0 @@
- Removes the Reddit feed and replaces it with a message reminding you not to stop being distracted by Reddit. That's it. It's still possible to visit other subreddits, but the lack of the Reddit home page should remind
- you that there are more things that you would rather be doing with your life than aimlessly killing time by
- browsing Reddit. 
-
-No more wasting time on Reddit. No more getting distracted type reddit.com into your search bar.
