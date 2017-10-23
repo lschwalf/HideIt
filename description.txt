@@ -1,3 +1,5 @@
-Kills the news feed and replaces it with a message reminding you not to get distracted. That's it. You can still check your messages and notifications, post status updates, and do everything you could do before. You just won't get distracting news feed posts anymore.
+ Removes the Reddit feed and replaces it with a message reminding you not to stop being distracted by Reddit. That's it. It's still possible to visit other subreddits, but the lack of the Reddit home page should remind
+ you that there are more things that you would rather be doing with your life than aimlessly killing time by
+ browsing Reddit. 
 
-No more wasting time on Facebook. No more getting distracted when you log on to send a message. It's that simple.
+No more wasting time on Reddit. No more getting distracted type reddit.com into your search bar.
