@@ -1,6 +1,6 @@
 {
   "name": "RemoveIt",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "Removes the content of the Reddit homepage",
   "content_scripts": [{
       "matches": ["*://*.reddit.com/*"],
@@ -8,9 +8,9 @@
       "run_at": "document_start"
   }],
   "icons": {
-    "16": "images/hideit-icon-16.png",
-    "48": "images/hideit-icon-48.png",
-    "128": "images/hideit-icon-128.png"
+    "16": "images/RemoveIt-16.png",
+    "48": "images/RemoveIt-48.png",
+    "128": "images/RemoveIt-128.png"
   },
   "manifest_version": 2
 }
